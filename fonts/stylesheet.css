@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('subset-CenturyGothic-BoldItalic.eot');
+    src: local('Century Gothic Bold Italic'), local('CenturyGothic-BoldItalic'),
+        url('subset-CenturyGothic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('subset-CenturyGothic-BoldItalic.woff2') format('woff2'),
+        url('subset-CenturyGothic-BoldItalic.woff') format('woff'),
+        url('subset-CenturyGothic-BoldItalic.svg#CenturyGothic-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('subset-CenturyGothic-Italic.eot');
+    src: local('Century Gothic Italic'), local('CenturyGothic-Italic'),
+        url('subset-CenturyGothic-Italic.eot?#iefix') format('embedded-opentype'),
+        url('subset-CenturyGothic-Italic.woff2') format('woff2'),
+        url('subset-CenturyGothic-Italic.woff') format('woff'),
+        url('subset-CenturyGothic-Italic.svg#CenturyGothic-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('subset-CenturyGothic.eot');
+    src: local('Century Gothic'), local('CenturyGothic'),
+        url('subset-CenturyGothic.eot?#iefix') format('embedded-opentype'),
+        url('subset-CenturyGothic.woff2') format('woff2'),
+        url('subset-CenturyGothic.woff') format('woff'),
+        url('subset-CenturyGothic.svg#CenturyGothic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('subset-CenturyGothic-Bold.eot');
+    src: local('Century Gothic Bold'), local('CenturyGothic-Bold'),
+        url('subset-CenturyGothic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-CenturyGothic-Bold.woff2') format('woff2'),
+        url('subset-CenturyGothic-Bold.woff') format('woff'),
+        url('subset-CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
